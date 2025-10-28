@@ -1,15 +1,64 @@
-# CYBERSENSEI AI - Ultimate Cybersecurity Educator
+# 🚀 CyberSensei AI — Ultimate Cybersecurity Educator
 
-CyberSensei AI is a comprehensive AI-powered cybersecurity education platform developed by Glen (GitHub: Lowkeyglen) that teaches everything from basic security concepts to advanced penetration testing. This zero-dependency tool covers 50+ attack vectors, 100+ security tools, major frameworks (NIST, MITRE ATT&CK, OWASP), and career paths with salary guidance - all running locally with pure Python intelligence.
+**Author:** Glen (GitHub: [Lowkeyglen](https://github.com/Lowkeyglen))  
+**Repository:** [Lowkeyglen/cybersensei-ai](https://github.com/Lowkeyglen/cybersensei-ai)
 
-QUICK START:
-git clone https://github.com/lowkeyglen/cybersensei-ai.git
-cd cybersensei-ai  
-python3 cybersensei.py
+CyberSensei AI is a **lightweight, zero-dependency Python tool** for learning cybersecurity concepts and tools locally.  
+It covers **50+ attack vectors**, **100+ security tools**, and key frameworks like **NIST**, **MITRE ATT&CK**, and **OWASP** — all through an interactive AI-driven experience.
 
-Ask questions like "Teach me about SQL injection" or "How does Nmap work?"
+---
 
-SPECIAL THANKS:
-Massive credit to Glen (GitHub: Lowkeyglen) for creating this comprehensive cybersecurity education platform.
+## 🧠 Quick Start
 
-CyberSensei AI - Making cybersecurity education accessible to all.
+\`\`\`bash
+# clone
+git clone https://github.com/Lowkeyglen/cybersensei-ai.git
+cd cybersensei-ai
+
+# run (main script)
+python3 sensei.py
+\`\`\`
+
+Ask questions like:
+\`\`\`bash
+"Teach me about SQL injection"
+"How does Nmap work?"
+"What is OWASP Top 10?"
+\`\`\`
+
+---
+
+## 📂 Repository Structure
+
+| File | Description |
+|------|--------------|
+| \`sensei.py\` | Main entry point |
+| \`README.md\` | Documentation |
+| \`.gitignore\` | Ignored files |
+| \`LICENSE\` | Open-source license |
+
+---
+
+## 🧰 Features
+
+- 💡 Explains 100+ cybersecurity tools and concepts  
+- ⚙️ Works completely offline  
+- 📘 Includes frameworks & methodologies (NIST, OWASP, MITRE)  
+- 🧭 Roadmaps for pentesting, blue teaming, and security careers  
+
+---
+
+## 🤝 Contributing
+
+Pull requests and feature suggestions are welcome!  
+Open an issue for bugs or feature requests.
+
+---
+
+## ⚖️ License
+
+This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
+
+---
+
+**CyberSensei AI** — *Making cybersecurity education accessible to all.*
